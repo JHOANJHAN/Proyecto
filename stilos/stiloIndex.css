@@ -1,0 +1,111 @@
+
+.container1
+{
+	height: 50px;
+	margin-top: 30px; 
+}
+div, section{
+	border: 1px solid black;
+}
+.container2{
+	height: 675px;
+	position: relative;
+}
+.textoContainer{
+	position: absolute;
+	margin-top: 170px;
+	width: 30%;
+	height: 500px;
+}
+.primerTexto{
+	margin-top:30px; 
+	width: 70%;
+	height: 190px;
+}
+.segundoTexto{
+	margin-top: 30px;  
+	width: 100%;
+	height: 245px;
+}
+.primerImagen{
+	border: 2px solid black;
+	width: 64%;
+	margin-top: 170px;
+	margin-left:30%;
+	height: 500px; 
+	float: right;
+}
+.container3{
+	height: 510px;
+}
+.container4{
+	height: 674px;
+}
+.containerPadre{
+	position: relative;
+	height: 1000px;
+}
+.imagen2{
+	border:1px solid black;
+	width: 45%;
+	height: 510px;
+	float: left;
+}
+.imagen3{
+	width: 100%;
+	position: absolute;
+	height: 510px;
+}
+.tercerTexto{
+	height: 240px;
+	float: left;
+	width: 44%;
+	margin-left: 4%;
+	margin-top: 150px;
+}
+
+.textoCuatro{	
+	height: 130px;
+	margin-top: 60px;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+.textoCinco{
+	position: absolute;	
+	width: 70%;
+	height: 600px;
+	margin-top: 400px;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+.cartasPadre{
+	position: absolute;
+	height: 320px;
+	margin-top: 50px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.cartasHijo{
+	margin-top: 50px;
+	position: relative;
+	height: 320px;
+	width: 26.5%;
+	float: left;
+	margin-left: 5%;
+}
+.imgc1{
+	margin-left:98px;
+	margin-right:98px;
+	height: 112px;
+	margin-top: 38px;
+}
+.imgc2{
+	margin-left: 80px;
+	margin-right: 80px;
+	height: 155px;
+}
+.imgc3{
+	margin-left:40px;
+	margin-right:40px;
+	height: 155px;
+}
